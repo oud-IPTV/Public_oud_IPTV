@@ -1,0 +1,23 @@
+{
+"name": "@บ้านเรืองเดช@",
+"author": "github.com",
+#== "!_oud@IPTV/!_@oud#Mod" ==#
+"image": "https://www.dropbox.com/s/m0oe15ok3scivze/NamChot2.jpg?dl=1",
+"url": "https://cjkw.short.gy/@บ้านเรืองเดช@",
+"parental" : "true",
+"groups":
+[{
+
+"name": "@IPTVเค้าแจกมา@",
+"image": "https://sv1.picz.in.th/images/2021/08/10/2Dpkn2.jpg",
+"url": "https://cjkw.short.gy/@IPTVเค้าแจกมา@",
+"import": false
+},{
+"name": "@OnWeb..Movies@",
+#== !_oud@IPTV\!_@oud\=IPTV&Movie=\#OnWeb@หนัง&ซีรี่ย์# ==#
+"image": "https://i.imgur.com/VeAtnat.jpeg",
+"url": "https://freenote.biz/raw/0WFeTTBmEC",
+"import": false
+}]
+
+}

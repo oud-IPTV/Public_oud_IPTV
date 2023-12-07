@@ -1,0 +1,52 @@
+{
+"name": "การ์ตูน&Anime",
+"author": "freenote.biz",
+#== "!_oud@IPTV/!_@oud#Mod" ==#
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAa7mlNZ3zoZfGv446burFlN8TOeyWMONow&usqp=CAU",
+"info": "https://freenote.biz/raw/fPtFA4iIva",
+"groups":
+[{
+
+
+"name": "Cartoon Anime",
+"image": "https://drive.google.com/uc?id=1DG72CDOd9r-Qyo_CqCK2pHYm92cbsSxY",
+"url": "https://drive.google.com/uc?id=11OjX8zXTqKn-IA2-N1EKcrLlAZt8J-eX",
+"import": false
+},{
+"name": "Anim-indy",
+"image": "https://sv1.picz.in.th/images/2023/05/16/FNBwO0.gif",
+"url": "https://drive.google.com/uc?id=13RFqRGSOZBSTOwq-YvFeE9818hnuY0he",
+"import": false
+},{
+"name": "Anime@อุ๋ง อุ๋ง",
+"image": "https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
+"url": "https://www.dropbox.com/s/synbnsz0h9pzyyt/?dl=1",
+"import": false
+},{
+"name":"การ์ตูน@อุ๋ง อุ๋ง#1", 
+"image":"https://th.bing.com/th/id/OIP.tZyIDIzGlkyuUrwgP2Xp2gAAAA?pid=ImgDet&rs=1",
+"url": "https://drive.google.com/uc?id=1dpUv84OzFqJnq7VkASHwo4j-DaQ8AOaB",
+"import": false
+},{
+"name":"การ์ตูน@อุ๋ง อุ๋ง#2",
+"image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
+"url": "https://raw.githubusercontent.com/Princenotza/toon/main/การ์ตูน.txt",
+"import": false
+},{
+"name":"Anime@เอกชัย",
+"image": "https://sv1.picz.in.th/images/2022/08/02/XRq9lI.jpg",
+"url":"https://drive.google.com/uc?id=12fPCO3LiTf_XmVHK_EAldqiBkaEbyKaB",
+"import": false
+},{
+"name":"เก็บตก#01",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
+"url": "https://drive.google.com/uc?id=1V6mBGbT4Sm9DOddgTdxU9vWPq7D4yBUL",
+"import": false
+},{
+"name":"เก็บตก#02",
+"image": "https://sv1.picz.in.th/images/2022/03/03/rlHEzq.jpg",
+"url": "https://drive.google.com/uc?id=12bm-VAJ2pkdSNsIGBmBdkKhW-VC6M4ZX",
+"import": false
+}]
+
+}

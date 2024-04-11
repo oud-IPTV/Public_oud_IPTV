@@ -1,0 +1,52 @@
+{
+"name": "การ์ตูน&Anime",
+"author": "Dbox#oud2ohm",
+#== "!_oud@IPTV/!_@oud#Mod" ==#
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAa7mlNZ3zoZfGv446burFlN8TOeyWMONow&usqp=CAU",
+"info": "http://tiny.cc/Gen_Anime",
+"groups":
+[{
+
+"name": "คลังการ์ตูน 20",
+"image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
+"url": "https://pastebin.com/raw/idwVNZGQ",
+"import": false
+},{
+"name":"Cartoon Network Studios",
+"image":"https://media.tenor.com/eTgbtWAW37sAAAAC/mao-mao-heroes-of-pure-heart-mao-mao.gif",
+"url": "https://www.dropbox.com/scl/fi/95b48g9mynyvb46ww5xpd/Cartoon-Network-Studios.wOUD?rlkey=u4j5nilen6fndxhv1utp6j2iw&dl=1",
+"import": false
+},{
+"name": "Anim-indy",
+"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Anime-Indy.com-logo-e1663413747730.png",
+"url": "https://drive.google.com/uc?id=13RFqRGSOZBSTOwq-YvFeE9818hnuY0he",
+"import": false
+},{
+"name": "Anime Cartoon",
+"image": "https://drive.google.com/uc?id=1DG72CDOd9r-Qyo_CqCK2pHYm92cbsSxY",
+"url": "https://www.dropbox.com/scl/fi/g6j306qb23bzldgvpz17n/Anime-Cartoon.w3u?rlkey=1s9lh9jjebqohh63c1evo7dkm&dl=1",
+#== "https://drive.google.com/uc?id=11OjX8zXTqKn-IA2-N1EKcrLlAZt8J-eX" ==#
+"import": false
+},{
+"name": "Anime@อุ๋ง อุ๋ง#1",
+"image": "https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
+"url": "https://www.dropbox.com/s/synbnsz0h9pzyyt/?dl=1",
+"import": false
+},{
+"name":"การ์ตูน@อุ๋ง อุ๋ง#2",
+"image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
+"url": "https://raw.githubusercontent.com/Princenotza/toon/main/การ์ตูน.txt",
+"import": false
+},{
+"name":"Anime@เอกชัย",
+"image": "https://cdn.kayiprihtim.com/wp-content/uploads/2020/08/anime-nedir.jpg",
+"url":"https://beebom.com/wp-content/uploads/2023/06/Anime.jpg",
+"import": false
+},{
+"name":"เก็บตก#01",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAa7mlNZ3zoZfGv446burFlN8TOeyWMONow&usqp=CAU",
+"url": "https://drive.google.com/uc?id=12bm-VAJ2pkdSNsIGBmBdkKhW-VC6M4ZX",
+"import": false
+}]
+
+}

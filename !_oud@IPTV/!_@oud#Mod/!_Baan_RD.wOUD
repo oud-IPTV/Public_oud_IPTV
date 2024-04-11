@@ -1,0 +1,23 @@
+{
+"name": "@บ้านเรืองเดช@",
+"author": "tiny.cc@Dbox",
+#== "!_oud@IPTV/!_@oud#Mod" ==#
+"image": "https://www.dropbox.com/s/m0oe15ok3scivze/NamChot2.jpg?dl=1",
+"info": "http://tiny.cc/Baan_RD",
+"parental" : "true",
+"groups":
+[{
+
+"name": "@IPTVเค้าแจกมา@",
+"image": "https://media.karousell.com/media/photos/products/2020/9/11/free_iptv_m3u_link_1599834385_e3ebc2dc_progressive.jpg",
+"url": "http://tiny.cc/Gen_IPTV",
+"import": false
+},{
+"name": "@OnWeb..Movies@",
+#== !_oud@IPTV\!_@oud\=IPTV&Movie=\#OnWeb@หนัง&ซีรี่ย์# ==#
+"image": "https://i.imgur.com/VeAtnat.jpeg",
+"url": "http://tiny.cc/OnWeb_Movies",
+"import": false
+}]
+
+}

@@ -1,0 +1,29 @@
+{
+"name": "@60ยังเสียว@",
+"author": "freenote.biz",
+#== "!_oud@IPTV/!_@oud#Mod" ==#
+"image": "https://drive.google.com/uc?id=1sZmwBEXILLblipF6UfAxvCIxk4R8oy2x&export=download",
+"url": "https://freenote.biz/raw/lsB3JQNvwz",
+"parental" : "true",
+"groups":
+[{
+
+"name": "@IPTVเค้าแจกมา@",
+"image": "https://i0.wp.com/cordcuttersnews.com/wp-content/uploads/2019/09/remote-streaming-netflix-large.jpg",
+"url": "https://freenote.biz/raw/qCeVOrsfVC",
+"import": false
+},{
+"name": "@OnWeb..Movies@",
+#== !_oud@IPTV\!_@oud\=IPTV&Movie=\#OnWeb@หนัง&ซีรี่ย์# ==#
+"image": "https://i.imgur.com/VeAtnat.jpeg",
+"url": "https://freenote.biz/raw/0WFeTTBmEC",
+"import": false
+},{
+"name": "@เจริญ..Porn@",
+"image": "https://slm-assets.secondlife.com/assets/24888044/original/MeshNeonAdultsOnly.gif",
+"url": "https://freenote.biz/raw/CknMA2xhex",
+#== !_oud@IPTV\!_@oud\=Relax18+=\=Cloud18+= ==#
+"import": false
+}]
+
+}

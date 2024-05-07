@@ -1,0 +1,768 @@
+{
+"name":"หนัง@OnWeb-แยกหมวด",
+"author": "Github@oud-IPTV",
+#== "!_oud@IPTV\!_@oud#Mod\@OnWeb_Movies@" ==#
+"image":"https://i.pinimg.com/originals/1f/82/c9/1f82c992767ce8aeb6ef8b84a81a0eb2.gif",
+#== "url": "https://drive.google.com/uc?id=1l9z8T7heImLs47_g08LDfczB6zcX7RqI&export=download", ==#
+"groups":
+[{
+
+"name" : "  Nung2HD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"stations":[
+
+{"name" :"Main Menu",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url" : "https://www.nung2hdd.com/",
+"referer" : "https://www.nung2hdd.com/",
+"embed" : "true"},
+
+{"name" :"หนังใหม่ 2024",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url" : "https://www.nung2hdd.com/tag/2024/",
+"referer" : "https://www.nung2hdd.com/",
+"embed" : "true"},
+
+{"name" :"หนังใหม่ 2023",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url" : "https://www.nung2hdd.com/tag/2023/",
+"referer" : "https://www.nung2hdd.com/",
+"embed" : "true"},
+
+{"name" :"NETFLIX",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url" : "https://www.nung2hdd.com/category/local-movies/netflix-movies/",
+"referer" : "https://www.nung2hdd.com/",
+"embed" : "true"},
+
+{"name" :"HBO",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url" : "https://www.nung2hdd.com/category/local-movies/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87-hbo/",
+"referer" : "https://www.nung2hdd.com/",
+"embed" : "true"},
+
+{"name" :"iQiyi",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url" : "https://www.nung2hdd.com/category/local-movies/iqiyi-movies/",
+"referer" : "https://www.nung2hdd.com/",
+"embed" : "true"},
+
+{"name" :"Viu",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url" : "https://www.nung2hdd.com/category/local-movies/viu-movies/",
+"referer" : "https://www.nung2hdd.com/",
+"embed" : "true"},
+
+{"name" :"Disney",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url" : "https://www.nung2hdd.com/category/local-movies/disney-movies/",
+"referer" : "https://www.nung2hdd.com/",
+"embed" : "true"},
+
+{"name" :"หนังจีน",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url" : "https://www.nung2hdd.com/category/local-movies/china-movies/",
+"referer" : "https://www.nung2hdd.com/",
+"embed" : "true"},
+
+{"name" :"หนังฝรั่ง",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url" : "https://www.nung2hdd.com/category/local-movies/hollywood-movies/",
+"referer" : "https://www.nung2hdd.com/",
+"embed" : "true"},
+
+{"name" :"หนังเกาหลี",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url" : "https://www.nung2hdd.com/category/local-movies/korea-movies/",
+"referer" : "https://www.nung2hdd.com/",
+"embed" : "true"},
+
+{"name" :"หนังอินเดีย",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url" : "https://www.nung2hdd.com/category/local-movies/cinema-india/",
+"referer" : "https://www.nung2hdd.com/",
+"embed" : "true"},
+
+{"name" :"หนังญี่ปุ่น",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url" : "https://www.nung2hdd.com/category/local-movies/japan-movies/",
+"referer" : "https://www.nung2hdd.com/",
+"embed" : "true"},
+
+{"name" :"หนังไทย",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url" : "https://www.nung2hdd.com/category/local-movies/thai-movies/",
+"referer" : "https://www.nung2hdd.com/",
+"embed" : "true"},
+
+]},
+
+
+
+{
+"name" : "  9nunghd.com ",
+"image" : "https://i.postimg.cc/HLVxG2PS/9NHD.jpg",
+"stations":[
+
+{"name" :"Main Menu",
+"image" : "https://i.postimg.cc/HLVxG2PS/9NHD.jpg",
+"url" : "https://www.9nunghd.com/",
+"referer" : "https://www.9nunghd.com/",
+"embed" : "true"},
+
+
+{"name" : "2024",
+"image" : "https://i.postimg.cc/HLVxG2PS/9NHD.jpg",
+"url" : "https://www.9nunghd.com/movie-year/2024/",
+"referer" : "https://www.9nunghd.com/",
+"embed" : "true"},
+
+{"name" :"ดูหนังออนไลน์ 2023",
+"image" : "https://i.postimg.cc/HLVxG2PS/9NHD.jpg",
+"url" : "https://www.9nunghd.com/category/%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87-2023/",
+"referer" : "https://www.9nunghd.com/",
+"embed" : "true"},
+
+{"name":"ดูซีรีย์",
+"image" : "https://i.postimg.cc/HLVxG2PS/9NHD.jpg",
+"url" : "https://www.9nunghd.com/category/%e0%b8%94%e0%b8%b9%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b9%8c/",
+"referer" : "https://www.9nunghd.com/",
+"embed" : "true"},
+
+{"name" :"ซีรีย์จีน",
+"image" : "https://i.postimg.cc/HLVxG2PS/9NHD.jpg",
+"url" : "https://www.9nunghd.com/category/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b9%8c%e0%b8%88%e0%b8%b5%e0%b8%99/",
+"referer" : "https://www.9nunghd.com/",
+"embed" : "true"},
+
+{"name" :"ซีรีย์เกาหลี",
+"image" : "https://i.postimg.cc/HLVxG2PS/9NHD.jpg",
+"url" : "https://www.9nunghd.com/category/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b9%8c%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%ab%e0%b8%a5%e0%b8%b5/",
+"referer" : "https://www.9nunghd.com/",
+"embed" : "true"},
+
+{"name" :"ซีรีย์ฝรั่ง",
+"image" : "https://i.postimg.cc/HLVxG2PS/9NHD.jpg",
+"url" : "https://www.9nunghd.com/category/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b9%8c%e0%b8%9d%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%87/",
+"referer" : "https://www.9nunghd.com/",
+"embed" : "true"},
+
+{"name" :"Netflix",
+"image" : "https://i.postimg.cc/HLVxG2PS/9NHD.jpg",
+"url" : "https://www.9nunghd.com/category/netflix/",
+"referer" : "https://www.9nunghd.com/",
+"embed" : "true"},
+
+{"name" :"TOP IMDb",
+"image" : "https://i.postimg.cc/HLVxG2PS/9NHD.jpg",
+"url" : "https://www.9nunghd.com/top-imdb/",
+"referer" : "https://www.9nunghd.com/",
+"embed" : "true"},
+
+{"name" :"หนังชนโรง",
+"image" : "https://i.postimg.cc/HLVxG2PS/9NHD.jpg",
+"url" : "https://www.9nunghd.com/category/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%8a%e0%b8%99%e0%b9%82%e0%b8%a3%e0%b8%87/",
+"referer" : "https://www.9nunghd.com/",
+"embed" : "true"},
+
+{"name" :"หนังจีน",
+"image" : "https://i.postimg.cc/HLVxG2PS/9NHD.jpg",
+"url" : "https://www.9nunghd.com/category/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%88%e0%b8%b5%e0%b8%99/",
+"referer" : "https://www.9nunghd.com/",
+"embed" : "true"},
+
+{"name" :"หนังเกาหลี",
+"image" : "https://i.postimg.cc/HLVxG2PS/9NHD.jpg",
+"url" : "https://www.9nunghd.com/category/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%ab%e0%b8%a5%e0%b8%b5/",
+"referer" : "https://www.9nunghd.com/",
+"embed" : "true"},
+
+{"name" :"หนังฝรั่ง",
+"image" : "https://i.postimg.cc/HLVxG2PS/9NHD.jpg",
+"url" : "https://www.9nunghd.com/category/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%9d%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%87/",
+"referer" : "https://www.9nunghd.com/",
+"embed" : "true"},
+
+{"name" :"หนังอินเดีย",
+"image" : "https://i.postimg.cc/HLVxG2PS/9NHD.jpg",
+"url" : "https://www.9nunghd.com/category/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%ad%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%b5%e0%b8%a2/",
+"referer" : "https://www.9nunghd.com/",
+"embed" : "true"},
+]},
+
+
+
+{
+"name" : "serie-day.com",
+"image" : "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"stations":[
+
+{"name" :"Main Menu",
+"image" : "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"url" : "https://www.serie-day.com/",
+"referer" : "https://www.serie-day.com/",
+"embed" : "true"},
+
+{"name" :"ซีรี่ย์ใหม่-2024",
+"image" : "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"url" : "https://www.serie-day.com/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b9%8c%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88-2024/",
+"referer" : "https://www.serie-day.com/",
+"embed" : "true"},
+
+{"name" :"ซีรี่ย์พากย์ไทย",
+"image" : "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"url" : "https://www.serie-day.com/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b9%8c%e0%b8%9e%e0%b8%b2%e0%b8%81%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%97%e0%b8%a2/",
+"referer" : "https://www.serie-day.com/",
+"embed" : "true"},
+
+{"name" :"ซีรี่ย์ซับไทย",
+"image" : "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"url" : "https://www.serie-day.com/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b9%8c%e0%b8%8b%e0%b8%b1%e0%b8%9a%e0%b9%84%e0%b8%97%e0%b8%a2/",
+"referer" : "https://www.serie-day.com/",
+"embed" : "true"},
+
+{"name" :"netflix",
+"image" : "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"url" : "https://www.serie-day.com/netflix/",
+"referer" : "https://www.serie-day.com/",
+"embed" : "true"},
+
+{"name" :"ซีรี่ย์จีน",
+"image" : "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"url" : "https://www.serie-day.com/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b9%8c%e0%b8%88%e0%b8%b5%e0%b8%99/",
+"referer" : "https://www.serie-day.com/",
+"embed" : "true"},
+
+{"name" :"ซีรี่ย์เกาหลี",
+"image" : "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"url" : "https://www.serie-day.com/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b9%8c%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%ab%e0%b8%a5%e0%b8%b5/",
+"referer" : "https://www.serie-day.com/",
+"embed" : "true"},
+
+{"name" :"ซีรี่ย์ฝรั่ง",
+"image" : "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"url" : "https://www.serie-day.com/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b9%8c%e0%b8%9d%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%87/",
+"referer" : "https://www.serie-day.com/",
+"embed" : "true"},
+
+{"name" :"ซีรี่ย์ไทย",
+"image" : "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"url" : "https://www.serie-day.com/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%97%e0%b8%a2/",
+"referer" : "https://www.serie-day.com/",
+"embed" : "true"},
+
+{"name" :"iqiyi",
+"image" : "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"url" : "https://www.serie-day.com/iqiyi/",
+"referer" : "https://www.serie-day.com/",
+"embed" : "true"},
+
+{"name" :"wetv",
+"image" : "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"url" : "https://www.serie-day.com/wetv/",
+"referer" : "https://www.serie-day.com/",
+"embed" : "true"},
+
+{"name" :"youku",
+"image" : "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"url" : "https://www.serie-day.com/youku/",
+"referer" : "https://www.serie-day.com/",
+"embed" : "true"},
+
+
+{"name" :"viu",
+"image" : "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"url" : "https://www.serie-day.com/viu/",
+"referer" : "https://www.serie-day.com/",
+"embed" : "true"},
+
+
+{"name" :"hbo",
+"image" : "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"url" : "https://www.serie-day.com/hbo/",
+"referer" : "https://www.serie-day.com/",
+"embed" : "true"},
+]},
+
+
+
+{
+"name" : "  123-hd ",
+"image" : "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"stations":[
+
+{"name" :"Main Menu",
+"image" : "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url" : "https://www.123-hd.com/",
+"referer" : "https://www.123-hd.com/",
+"embed" : "true"},
+
+{"name" :"หนังใหม่-2024",
+"image" : "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url" : "https://www.123-hd.com/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-2024",
+"referer" : "https://www.123-hd.com/",
+"embed" : "true"},
+
+{"name" :" ดูหนังออนไลน์",
+"image" : "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url" : "https://www.123-hd.com/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C",
+"referer" : "https://www.123-hd.com/",
+"embed" : "true"},
+
+{"name" :" ซีรี่ย์ใหม่-2024",
+"image" : "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url" : "https://www.123-hd.com/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-2024",
+"referer" : "https://www.123-hd.com/",
+"embed" : "true"},
+
+{"name" :" ซีรี่ย์ใหม่-2023",
+"image" : "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url" : "https://www.123-hd.com/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-2023",
+"referer" : "https://www.123-hd.com/",
+"embed" : "true"},
+
+{"name" :" ซีรี่ย์จีน",
+"image" : "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url" : "https://www.123-hd.com/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99",
+"referer" : "https://www.123-hd.com/",
+"embed" : "true"},
+
+{"name" :" ซีรี่ย์เกาหลี",
+"image" : "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url" : "https://www.123-hd.com/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B5",
+"referer" : "https://www.123-hd.com/",
+"embed" : "true"},
+
+{"name" :" series-ฝรั่ง",
+"image" : "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url" : "https://www.123-hd.com/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/series-%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87",
+"referer" : "https://www.123-hd.com/",
+"embed" : "true"},
+
+{"name" :" series-ญี่ปุ่น",
+"image" : "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url" : "https://www.123-hd.com/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/series-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99",
+"referer" : "https://www.123-hd.com/",
+"embed" : "true"},
+
+{"name":" series-ไทย",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url" : "https://www.123-hd.com/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/series-%E0%B9%84%E0%B8%97%E0%B8%A2",
+"referer" : "https://www.123-hd.com/",
+"embed" : "true"},
+
+{"name" :" ดูหนัง-netflix",
+"image" : "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url" : "https://www.123-hd.com/%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87-netflix",
+"referer" : "https://www.123-hd.com/",
+"embed" : "true"},
+]},
+
+
+
+{ 
+"name":"   SERiESMY.com",
+"image": "https://i.postimg.cc/Tw1055Wj/SERiESMy.jpg",
+"stations":[
+
+{"name":"   หน้าหลัก",
+"image": "https://i.postimg.cc/Tw1055Wj/SERiESMy.jpg",
+"url":"https://seriesmy.com/",
+"referer": "https://seriesmy.com/",
+"embed": "true"},
+
+{"name":"หนังออนไลน์",
+"image": "https://i.postimg.cc/Tw1055Wj/SERiESMy.jpg",
+"url":"https://seriesmy.com/series-genre/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/",
+"referer": "https://seriesmy.com/",
+"embed": "true"},
+
+{"name":"ซีรี่ย์พากย์ไทย",
+"image": "https://i.postimg.cc/Tw1055Wj/SERiESMy.jpg",
+"url":"https://seriesmy.com/series-genre/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b9%8c%e0%b8%9e%e0%b8%b2%e0%b8%81%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%97%e0%b8%a2/",
+"referer": "https://seriesmy.com/",
+"embed": "true"},
+
+{"name":"ซีรี่ย์ซับไทย",
+"image": "https://i.postimg.cc/Tw1055Wj/SERiESMy.jpg",
+"url":"https://seriesmy.com/series-genre/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b9%8c%e0%b8%8b%e0%b8%b1%e0%b8%9a%e0%b9%84%e0%b8%97%e0%b8%a2/",
+"referer": "https://seriesmy.com/",
+"embed": "true"},
+
+{"name":"      ซีรี่ย์จีน",
+"image": "https://i.postimg.cc/Tw1055Wj/SERiESMy.jpg",
+"url":"https://seriesmy.com/series-genre/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b9%8c%e0%b8%88%e0%b8%b5%e0%b8%99/",
+"referer": "https://seriesmy.com/",
+"embed": "true"},
+
+{"name":"      ซีรี่ย์ฝรั่ง",
+"image": "https://i.postimg.cc/Tw1055Wj/SERiESMy.jpg",
+"url":"https://seriesmy.com/series-genre/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b9%8c%e0%b8%9d%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%87/",
+"referer": "https://seriesmy.com/",
+"embed": "true"},
+
+{"name":"      ซีรี่ย์เกาหลี",
+"image": "https://i.postimg.cc/Tw1055Wj/SERiESMy.jpg",
+"url":"https://seriesmy.com/series-genre/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b9%8c%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%ab%e0%b8%a5%e0%b8%b5/",
+"referer": "https://seriesmy.com/",
+"embed": "true"},
+
+{"name":"      ซีรี่ย์ญี่ปุ่น",
+"image": "https://i.postimg.cc/Tw1055Wj/SERiESMy.jpg",
+"url":"https://seriesmy.com/series-genre/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b9%8c%e0%b8%8d%e0%b8%b5%e0%b9%88%e0%b8%9b%e0%b8%b8%e0%b9%88%e0%b8%99/",
+"referer": "https://seriesmy.com/",
+"embed": "true"},
+
+{"name":"      ซีรี่ย์ไทย",
+"image": "https://i.postimg.cc/Tw1055Wj/SERiESMy.jpg",
+"url":"https://seriesmy.com/series-genre/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b9%8c%e0%b9%84%e0%b8%97%e0%b8%a2/",
+"referer": "https://seriesmy.com/",
+"embed": "true"},
+]},
+
+
+
+{ 
+"name":"   series-indy",
+"image": "https://series-indy.com/wp-content/uploads/2022/04/series-indy.com_.webp",
+"stations":[
+
+{"name":"   หน้าหลัก",
+"image": "https://series-indy.com/wp-content/uploads/2022/04/series-indy.com_.webp",
+"url":"https://series-indy.com/",
+"referer": "https://series-indy.com/",
+"embed": "true"},
+
+{"name":"ซีรีย์พากย์ไทย",
+"image": "https://series-indy.com/wp-content/uploads/2022/04/series-indy.com_.webp",
+"url":"https://series-indy.com/category/ซีรีย์พากย์ไทย/",
+"referer": "https://series-indy.com/",
+"embed": "true"},
+
+{"name":"ซีรีย์ซับไทย",
+"image": "https://series-indy.com/wp-content/uploads/2022/04/series-indy.com_.webp",
+"url":"https://series-indy.com/category/ซีรีย์ซับไทย/",
+"referer": "https://series-indy.com/",
+"embed": "true"},
+
+{"name":"ซีรีย์จีน",
+"image": "https://series-indy.com/wp-content/uploads/2022/04/series-indy.com_.webp",
+"url":"https://series-indy.com/category/ซีรีย์จีน/",
+"referer": "https://series-indy.com/",
+"embed": "true"},
+
+{"name":"ซีรีย์เกาหลี",
+"image": "https://series-indy.com/wp-content/uploads/2022/04/series-indy.com_.webp",
+"url":"https://series-indy.com/category/ซีรีย์เกาหลี/",
+"referer": "https://series-indy.com/",
+"embed": "true"},
+
+{"name":"ซีรีย์ญี่ปุ่น",
+"image": "https://series-indy.com/wp-content/uploads/2022/04/series-indy.com_.webp",
+"url":"https://series-indy.com/category/ซีรีย์ญี่ปุ่น/",
+"referer": "https://series-indy.com/",
+"embed": "true"},
+
+{"name":"ซีรีย์ฝรั่ง",
+"image": "https://series-indy.com/wp-content/uploads/2022/04/series-indy.com_.webp",
+"url":"https://series-indy.com/category/ซีรีย์ฝรั่ง/",
+"referer": "https://series-indy.com/",
+"embed": "true"},
+]},
+
+
+{
+"name": " tvallseries.co",
+"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+"stations":[
+
+{"name":" Main Menu",
+"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+"url":"https://tvallseries.co/",
+"referer": "https://tvallseries.co/",
+"embed": "true"},
+
+{"name":" ซีรีย์2024",
+"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+"url":"https://tvallseries.co/release/2024/",
+"referer": "https://tvallseries.co/",
+"embed": "true"},
+
+{"name":" ซีรีย์2023",
+"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+"url":"https://tvallseries.co/release/2024/",
+"referer": "https://tvallseries.co/",
+"embed": "true"},
+
+{"name":"ซีรีย์จบ",
+"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+"url":"https://tvallseries.co/genre/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b9%8c%e0%b8%88%e0%b8%9a/",
+"referer": "https://tvallseries.co/",
+"embed": "true"},
+
+{"name":"ซีรีย์พากย์ไทย",
+"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+"url":"https://tvallseries.co/genre/%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2/",
+"referer": "https://tvallseries.co/",
+"embed": "true"},
+
+{"name":"ซีรีย์ซับไทย",
+"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+"url":"https://tvallseries.co/genre/%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2/",
+"referer": "https://tvallseries.co/",
+"embed": "true"},
+
+{"name":"ซีรีย์จีน",
+"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+"url":"https://tvallseries.co/genre/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b9%8c%e0%b8%88%e0%b8%b5%e0%b8%99/",
+"referer": "https://tvallseries.co/",
+"embed": "true"},
+
+{"name":"ซีรีย์เกาหลี",
+"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+"url":"https://tvallseries.co/genre/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b9%8c%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%ab%e0%b8%a5%e0%b8%b5/",
+"referer": "https://tvallseries.co/",
+"embed": "true"},
+
+{"name":"ซีรีย์netflix",
+"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+"url":"https://tvallseries.co/genre/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b9%8cnetflix/",
+"referer": "https://tvallseries.co/",
+"embed": "true"},
+
+{"name":"ซีรีย์ไทย",
+"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+"url":"https://tvallseries.co/genre/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b9%8c%e0%b8%a5%e0%b8%b0%e0%b8%84%e0%b8%a3%e0%b9%84%e0%b8%97%e0%b8%a2/",
+"referer": "https://tvallseries.co/",
+"embed": "true"},
+
+{"name":"ซีรีย์ฝรั่ง",
+"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+"url":"https://tvallseries.co/genre/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b9%8c%e0%b8%9d%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%87/",
+"referer": "https://tvallseries.co/",
+"embed": "true"},
+]},
+
+
+{ 
+"name": "dooseries4k",
+"image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+"stations":[
+
+{"name": "  Main",
+"image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+"url":"https://www.dooseries4k.com/",
+"referer": "https://www.dooseries4k.com/",
+"embed": "true"},
+
+{"name": "ซีรีย์จีน",
+"image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+"url":"https://www.dooseries4k.com/category/ซีรีย์จีน/",
+"referer": "https://www.dooseries4k.com/",
+"embed": "true"},
+
+{"name": "ซีรีย์เกาหลี",
+"image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+"url":"https://www.dooseries4k.com/category/ซีรีย์เกาหลี/",
+"referer": "https://www.dooseries4k.com/",
+"embed": "true"},
+
+{"name": "ซีรีย์ฝรั่ง",
+"image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+"url":"https://www.dooseries4k.com/category/ซีรีย์ฝรั่ง/",
+"referer": "https://www.dooseries4k.com/",
+"embed": "true"},
+
+{"name": "netflix",
+"image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+"url":"https://www.dooseries4k.com/category/netflix/",
+"referer": "https://www.dooseries4k.com/",
+"embed": "true"},
+
+{"name": "viu",
+"image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+"url":"https://www.dooseries4k.com/category/viu/",
+"referer": "https://www.dooseries4k.com/",
+"embed": "true"},
+
+{"name": "hbo",
+"image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+"url":"https://www.dooseries4k.com/category/hbo/",
+"referer": "https://www.dooseries4k.com/",
+"embed": "true"},
+
+{"name": "iqiyi",
+"image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+"url":"https://www.dooseries4k.com/category/iqiyi/",
+"referer": "https://www.dooseries4k.com/",
+"embed": "true"},
+
+{"name": "wetv",
+"image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+"url":"https://www.dooseries4k.com/category/wetv/",
+"referer": "https://www.dooseries4k.com/",
+"embed": "true"},
+
+{"name": "disney",
+"image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+"url":"https://www.dooseries4k.com/category/disney/",
+"referer": "https://www.dooseries4k.com/",
+"embed": "true"},
+]},
+
+
+{ 
+"name": "series-full",
+"image": "https://i.postimg.cc/DfW2h2wR/SF.jpg",
+"stations":[
+
+{"name": "  Main Manu",
+"image": "https://i.postimg.cc/DfW2h2wR/SF.jpg",
+"url":"https://series-full.com/",
+"referer": "https://series-full.com/",
+"embed": "true"},
+
+{"name": "ดูซีรี่ย์ออนไลน์",
+"image": "https://i.postimg.cc/DfW2h2wR/SF.jpg",
+"url":"https://series-full.com/category/series-all/",
+"referer": "https://series-full.com/",
+"embed": "true"},
+
+{"name": "ดูซีรี่ย์จีน",
+"image": "https://i.postimg.cc/DfW2h2wR/SF.jpg",
+"url":"https://series-full.com/category/series-china/",
+"referer": "https://series-full.com/",
+"embed": "true"},
+
+{"name": "ดูซีรี่ย์เกาหลี",
+"image": "https://i.postimg.cc/DfW2h2wR/SF.jpg",
+"url":"https://series-full.com/category/series-korea/",
+"referer": "https://series-full.com/",
+"embed": "true"},
+
+{"name": "ดูซีรี่ย์ญี่ปุ่น",
+"image": "https://i.postimg.cc/DfW2h2wR/SF.jpg",
+"url":"https://series-full.com/category/series-japan/",
+"referer": "https://series-full.com/",
+"embed": "true"},
+
+{"name": "ดูละครไทย",
+"image": "https://i.postimg.cc/DfW2h2wR/SF.jpg",
+"url":"https://series-full.com/category/drama-thai/",
+"referer": "https://series-full.com/",
+"embed": "true"},
+
+{"name": "ดูหนังออนไลน์",
+"image": "https://i.postimg.cc/DfW2h2wR/SF.jpg",
+"url":"https://series-full.com/category/movie/",
+"referer": "https://series-full.com/",
+"embed": "true"},
+]},
+
+
+
+{ 
+"name":"   i-moviehd.com",
+"image":"https://i.postimg.cc/xd02D5Lb/HD-i-Move.jpg",
+"stations":[
+
+{"name":"   MainMenu",
+"image":"https://i.postimg.cc/xd02D5Lb/HD-i-Move.jpg",
+"url":"https://www.i-moviehd.com/",
+"referer": "https://www.i-moviehd.com/",
+"embed": "true"},
+
+{"name":"        TV",
+"image":"https://i.postimg.cc/xd02D5Lb/HD-i-Move.jpg",
+"url":"https://www.i-moviehd.com/tv/",
+"referer": "https://www.i-moviehd.com/",
+"embed": "true"},
+
+{"name":"   หนังใหม่ 2021",
+"image":"https://i.postimg.cc/xd02D5Lb/HD-i-Move.jpg",
+"url":"https://www.i-moviehd.com/category/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88-2021/",
+"referer": "https://www.i-moviehd.com/",
+"embed": "true"},
+{
+"name":"   หนังชนโรง",
+"image":"https://i.postimg.cc/xd02D5Lb/HD-i-Move.jpg",
+"url":"https://www.i-moviehd.com/category/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%8a%e0%b8%99%e0%b9%82%e0%b8%a3%e0%b8%87/",
+"referer": "https://www.i-moviehd.com/",
+"embed": "true"},
+
+{"name":"   หนัง Netflix",
+"image":"https://i.postimg.cc/xd02D5Lb/HD-i-Move.jpg",
+"url":"https://www.i-moviehd.com/category/%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87-netflix/",
+"referer": "https://www.i-moviehd.com/",
+"embed": "true"},
+
+{"name":"   Series ซีรี่ส์",
+"image":"https://i.postimg.cc/xd02D5Lb/HD-i-Move.jpg",
+"url":"https://www.i-moviehd.com/category/series-%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b9%8c/",
+"referer": "https://www.i-moviehd.com/",
+"embed": "true"},
+
+{"name":"   JAV UNCENSOR",
+"image":"https://i.postimg.cc/xd02D5Lb/HD-i-Move.jpg",
+"url":"https://www.i-moviehd.com/category/jav-uncensor/",
+"referer": "https://www.i-moviehd.com/",
+"embed": "true"},
+]},
+
+
+
+{ 
+"name":"   movie87hd.com",
+"image": "https://i.postimg.cc/NjN5nKHY/movie87hd.jpg",
+"stations":[
+
+{"name":"   Main Menu",
+"image": "https://i.postimg.cc/NjN5nKHY/movie87hd.jpg",
+"url": "https://www.movie87hd.com/",
+"referer": "https://www.movie87hd.com/","embed": "true"},
+
+{"name": "หนังใหม่",
+"image": "https://i.postimg.cc/NjN5nKHY/movie87hd.jpg",
+"url": "https://www.movie87hd.com/?r=movie&cate=2", 
+"referer": "https://www.movie87hd.com/","embed": "true"},
+
+{"name": "หนังNetflix",
+"image": "https://i.postimg.cc/NjN5nKHY/movie87hd.jpg",
+"url": "https://www.movie87hd.com/?r=movie&cate=3", 
+"referer": "https://www.movie87hd.com/","embed": "true"},
+
+{"name": "หนังชนโรง",
+"image": "https://i.postimg.cc/NjN5nKHY/movie87hd.jpg",
+"url": "https://www.movie87hd.com/?r=movie&cate=1", 
+"referer": "https://www.movie87hd.com/","embed": "true"},
+
+{"name": "หนังฝรั่ง",
+"image": "https://i.postimg.cc/NjN5nKHY/movie87hd.jpg",
+"url": "https://www.movie87hd.com/?r=movie&cate=2", 
+"referer": "https://www.movie87hd.com/","embed": "true"},
+
+{"name": "ซีรี่ย์ฝรั่ง",
+"image": "https://i.postimg.cc/NjN5nKHY/movie87hd.jpg",
+"url": "https://www.movie87hd.com/?r=movie&cate=13", 
+"referer": "https://www.movie87hd.com/","embed": "true"},
+
+{"name": "ซีรี่ย์จีน",
+"image": "https://i.postimg.cc/NjN5nKHY/movie87hd.jpg",
+"url": "https://www.movie87hd.com/?r=movie&cate=14", 
+"referer": "https://www.movie87hd.com/","embed": "true"},
+
+{"name": "ซีรี่ย์เกาหลี",
+"image": "https://i.postimg.cc/NjN5nKHY/movie87hd.jpg",
+"url": "https://www.movie87hd.com/?r=movie&cate=12", 
+"referer": "https://www.movie87hd.com/","embed": "true"},
+
+{"name": "ซีรี่ย์ไทย",
+"image": "https://i.postimg.cc/NjN5nKHY/movie87hd.jpg",
+"url": "https://www.movie87hd.com/?r=movie&cate=11", 
+"referer": "https://www.movie87hd.com/","embed": "true"
+}]
+
+
+}]
+
+}

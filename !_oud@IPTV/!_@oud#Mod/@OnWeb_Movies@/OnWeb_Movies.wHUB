@@ -3,19 +3,18 @@
 "author": "Github@oud-IPTV",
 #== "!_oud@IPTV\!_@oud#Mod\@OnWeb_Movies@" ==#
 "image":"https://i.pinimg.com/originals/1f/82/c9/1f82c992767ce8aeb6ef8b84a81a0eb2.gif",
-#== "url": "https://drive.google.com/uc?id=19An4vY45PB1pRMBCzjIZ-5rHNyhn5D6v&export=download", ==#
 "groups":
 [{
 
 "name": "หนัง@OnWeb-หน้าแรก",
 #== !_oud@IPTV\!_@oud\=IPTV&Movie=\#OnWeb@หนัง&ซีรี่ย์# ==#
 "image": "https://i.imgur.com/VeAtnat.jpeg",
-"url": "https://freenote.biz/raw/vPT25eclUy",
+"url": "https://raw.githubusercontent.com/oud-IPTV/Public_oud_IPTV/main/!_oud%40IPTV/!_%40oud%23Mod/%40OnWeb_Movies%40/OnWeb_Movies-1.wHUB",
 "import": false
 },{
 "name": "หนัง@OnWeb-แยกหมวด",
 "image": "https://i.imgur.com/VeAtnat.jpeg",
-"url": "https://freenote.biz/raw/taua2O2LIZ",
+"url": "https://raw.githubusercontent.com/oud-IPTV/Public_oud_IPTV/main/!_oud%40IPTV/!_%40oud%23Mod/%40OnWeb_Movies%40/OnWeb_Movies-2.wHUB",
 "import": false
 
 }]

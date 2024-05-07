@@ -1,0 +1,184 @@
+{
+"name": "WebIPTV#Github#",
+"author": "Github@oud-IPTV",
+#== "!_oud@IPTV/!_@oud#Mod/@IPTVเค้าแจกมา@/เก็บตกมา@Upเรื่อยๆ@/!_Gen_Misc_IPTV" ==#
+"image": "https://sv1.picz.in.th/images/2023/05/18/F3sEzI.jpg",
+"stations":
+[{
+
+"name":"   SERiESMY.com",
+"image": "https://sv1.picz.in.th/images/2023/02/23/LyaFmg.jpg",
+"url":"https://seriesmy.com/",
+"info": "🌐ดูหนัง",
+"referer": "https://seriesmy.com/",
+"embed": "true"},
+
+{"name":"   Series-indy",
+"image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
+"url":"https://series-indy.com/",
+"info": "🌐ดูหนัง",
+"referer": "https://series-indy.com/",
+"embed": "true"},
+
+
+{"name":"   369movies.com",
+"image":"https://sv1.picz.in.th/images/2022/01/14/nilsx8.jpg",
+"url":"https://369movies.com/",
+"info": "🌐ดูหนัง",
+"referer": "https://369movies.com/",
+"embed": "true"},
+
+
+{"name": "GOMOVIEON",
+"image": "https://sv1.picz.in.th/images/2023/02/15/L6BERb.jpg",
+"url":"https://gomovieon.com/",
+"info": "🌐ดูหนัง",
+"referer": "https://gomovieon.com/","embed": "true"},
+
+{"name": "Baa dooball",
+"image": "https://baadooball.com/wp-content/uploads/2021/09/cropped-logo-%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5-1.png",
+"url":"https://baadooball.com/",
+"info": "🌐ดูบอลสด",
+"referer": "https://baadooball.com/","embed": "true"},
+
+{"name": "Nungkai",
+"image": "https://sv1.picz.in.th/images/2023/02/15/LuLQ0Z.jpg",
+"url":"https://nungkai-hd.com/football.php?fbclid=IwAR3pfud4XN3IAR87vZD2AB0dmTWiRKJTe9bLmWBIVeIM6Lzod-BGWbFtT2s",
+"info": "🌐ดูบอลสด",
+"referer": "https://nungkai-hd.com/","embed": "true"},
+
+{"name": "BALLFREE 24hr",
+"image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/logo394x173.png",
+"url":"https://www.dooballfree24hr.com/live-sport/",
+"info": "🌐ดูบอลสด",
+"referer": "https://www.dooballfree24hr.com/","embed": "true"},
+
+{"name": "Doonung1234",
+"image": "https://www.doonung1234.com/asset/web/img/logo.png",
+"url":"https://www.doonung1234.com/match",
+"info": "🌐ดูบอลสด",
+"referer": "https://www.doonung1234.com/","embed": "true"},
+
+{"name": "AISCORE",
+"image": "https://play-lh.googleusercontent.com/1eSJBkLqqIXCjUxHXN1g52B2J52fLRvMB6pR8C7XeFJZ_koa-LEufmWnoOYIXD__Dr0",
+"url":"https://www.aiscore.com/",
+"info": "🌐ดูบอลสด",
+"referer": "https://www.aiscore.com/","embed": "true"},
+
+{"name": "hdfootball",
+"image": "https://hdfootball.net/wp-content/uploads/2019/11/logo-hd.png.webp",
+"url":"https://hdfootball.net/",
+"info": "🌐ดูบอลสด",
+"referer": "https://hdfootball.net/","embed": "true"},
+
+{"name": "Aisplay24hd",
+"image": "https://aisplay24hd.com/wp-content/uploads/2021/09/cropped-logo_m_md.png",
+"url":"https://aisplay24hd.com/",
+"info": "🌐ดูบอลสด",
+"referer": "https://aisplay24hd.com/","embed": "true"},
+
+{"name": "Dooball4k",
+"image": "https://dooball4k.live/wp-content/uploads/2021/10/cropped-Asset-106.png",
+"url":"https://dooball4k.live/",
+"info": "🌐ดูบอลสด",
+"referer": "https://dooball4k.live/","embed": "true"},
+
+{"name": "Livescore thai",
+"image": "https://livescorethai.net/assets/images/logo-new.png?v=4",
+"url":"https://livescorethai.football/",
+"info": "🌐ไฮไลน์ฟุตบอล",
+"referer": "https://livescorethai.football/","embed": "true"},
+
+{"name": "ufa77",
+"image": "https://media0.giphy.com/media/uFh55a9cUkSwrnRKpo/giphy.gif",
+"url":"https://ufa77.tv/all-channels",
+"info": "🌐ทีวีออนไลน์",
+"referer": "https://ufa77.tv/","embed": "true"},
+
+{"name": "Dooball2you",
+"image": "https://dooball2you.com/wp-content/themes/dooball2you/images/logo-dooball.png",
+"url":"https://dooball2you.com/tvonline/",
+"info": "🌐ทีวีออนไลน์",
+"referer": "https://dooball2you.com/","embed": "true"},
+
+{"name": "Warpfootball",
+"image": "https://sv1.picz.in.th/images/2023/05/18/F3hEyZ.png",
+"url":"https://www.warpfootball.games/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/",
+"info": "🌐ทีวีออนไลน์",
+"referer": "https://www.warpfootball.games/","embed": "true"},
+
+{"name": "trueid.net",
+"image": "https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_320.png",
+"url":"https://tv.trueid.net/live",
+"info": "🌐ทีวีออนไลน์",
+"referer": "https://tv.trueid.net/live","embed": "true"},
+
+{"name": "Tongha-movie",
+"image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+"url":"https://tongha-movie.com/",
+"info": หนัง",
+"referer": "https://tongha-movie.com/","embed": "true"},
+
+{"name": "fw4free",
+"image": "https://fw4free.com/images/logo7.png",
+"url":"https://fw4free.com/index.php",
+"info": "🌐หนัง",
+"referer": "https://fw4free.com/","embed": "true"},
+
+{"name": "Ip playbox",
+"image": "https://ipplaybox.com/images/logo/10WVx1uBYsqgOPUMrgTyMStP9hRktshIPPLAYBOX.png",
+"url":"https://ipplaybox.com/",
+"info": "🌐หนัง",
+"referer": "https://ipplaybox.com/","embed": "true"},
+
+{"name": "Ezmovie",
+"image": "https://ezmovie.co/build/web/ez-movie/img/ez-movie-logo.png?v=2",
+"url":"https://ezmovie.co/movies",
+"info": "🌐หนัง",
+"referer": "https://ezmovie.co/","embed": "true"},
+
+{"name": "ioiwork",
+"image": "https://ioiwork.com/uploads/system_logo/logo_6266e431ef5d7.png?1652712228",
+"url":"https://ioiwork.com/",
+"info": "🌐หนัง",
+"referer": "https://tongha-movie.com/","embed": "true"},
+
+{"name": "fwiptv",
+"image": "https://fwiptv.tv/images/logo/wvhTgSvjlt1fJI7XsBeKGdlXYXEbJ1Hf1wiptv.png",
+"url":"https://fwiptv.tv/",
+"info": "🌐หนัง",
+"referer": "https://fwiptv.tv/","embed": "true"},
+
+{"name": "V8moviehd",
+"image": "https://sv1.picz.in.th/images/2023/05/18/F3kioQ.png",
+"url":"https://www.v8moviehd.com/",
+"info": "🌐หนัง",
+"referer": "https://www.v8moviehd.com/","embed": "true"},
+
+{"name": "037moviefree",
+"image": "https://037moviefree.com/wp-content/uploads/2021/08/5kumbbL1ejhwI694YUQuEgO5CK1fnT7logo-1-e1628689613463.png",
+"url":"https://037moviefree.com/",
+"info": "🌐หนัง",
+"referer": "https://037moviefree.com/","embed": "true"},
+
+{"name": "gohitv",
+"image": "https://play-lh.googleusercontent.com/fTkft_AvS_ssZ8KtlLrqsjrOKgdufDUw9epJRuQDx9yleoOEOvVEB3fRCiXxJ9lNF7c",
+"url":"https://www.gohitv.com/th-th/",
+"info": "🌐หนังจีน",
+"referer": "https://037moviefree.com/","embed": "true"},
+
+{"name": "movie8m",
+"image": "https://sv1.picz.in.th/images/2023/05/18/F33F4a.jpg",
+"url":"https://movie8m.co/",
+"info": "🌐หนัง",
+"referer": "https://movie8m.co/","embed": "true"},
+
+{"name": "ทีวีท้องถิ่นไทย",
+"image": "https://thaitvstream.com/streaming/gochannel/gochannel.png",
+"url":"http://www.xn--72c4abacl8d8a5c1dfb5r2bk.com/?fbclid=IwAR1izOJxbs7EEDY2gQBCj3WcITYTwOtNUSnW1WbgPmNY1BBJwpzduqVVhZI",
+"info": "🌐เคเบิลท้องถิ่น",
+"referer": "http://www.xn--72c4abacl8d8a5c1dfb5r2bk.com/","embed": "true"},
+
+
+
+]}
